@@ -9,5 +9,5 @@ This project was created using the physical formulas for torque, moment of inert
 The simulated trajectory of the launched object was used as a driving force for a visualization in blender. The x and y position of the object was exported from Matlab and imported into blender using a python script.
 
 ## Results
-![]()
+![](https://github.com/HenrikGustafssonPersonal/Trebuchet_Simulator/blob/main/RenderedSim.gif)
 
